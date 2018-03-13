@@ -126,8 +126,8 @@ div.guilds-wrapper {
 }
 
 /* NOTE: Typing... bar */
-.theme-dark .chat form .typing {
-  background-color: rgba(0, 0, 0, 0.4);
+.typing-3eiiL_ {
+  background-color: rgba(0, 0, 0, 0.4) !important;
 }
 
 
@@ -175,11 +175,11 @@ div.account .avatar-small {
 }
 
 /* NOTE: Black transparent (online status) popup */
-.popout-menu {
+.menu-3BZuDT {
   background: rgba(0,0,0,0.8) !important;
 }
 
-.popout-menu-separator {
+.separator-1hpa3S {
     border-bottom:1px solid rgba(204,10,100,40) !important;
 }
 
@@ -449,8 +449,8 @@ div.category, .emoji-picker .sticky-header {
   }
 
   /* NOTE: User profile */
-  div#user-profile-modal {
-        background-image: url(https://i.imgur.com/lI5VTsZ.png);
+  div#user-profile-modal, .root-2sNHUF {
+        background-image: url(https://i.imgur.com/5cSbBET.jpg);
         background-size: cover;
         background-position: center;
 }
@@ -459,13 +459,13 @@ div.category, .emoji-picker .sticky-header {
     background: rgba(0,0,0,0.5);
   }
 
-#user-profile-modal .header {
+.topSectionNormal-2LlRG1 {
   background-image: none !important;
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-#user-profile-modal .tab-bar-container {
-    background-color: rgba(0, 0, 0, 0.7);
+.body-3_tdh6 {
+    background-color: rgba(0, 0, 0, 0.7) !important;
     border-bottom: none !important;
   }
 
@@ -482,17 +482,17 @@ div.category, .emoji-picker .sticky-header {
 }
 
 /* NOTE: Context menu */
-.theme-dark.context-menu, .theme-dark.context-menu .context-menu {
-    background: rgba(0,0,0,0.8);
+.theme-dark.context-menu, .theme-dark.context-menu .context-menu, .contextMenu-uoJTbz {
+    background: rgba(0,0,0,0.8) !important;
   }
 
-.theme-dark.context-menu .item:hover {
-    background-color: rgba(226, 11, 108, 0.58);
+.item-1XYaYf:hover {
+    background-color: rgba(226, 11, 108, 0.58) !important;
 }
 
 
-.theme-dark.context-menu .item-subMenu {
-  background-color: transparent;
+.itemSubMenu-3ZgIw- {
+  background-color: transparent !important;
 }
 
 /* NOTE: Server settings */
@@ -757,3 +757,17 @@ div.modal-inner {
 .theme-dark .layer-kosS71, .theme-dark .layers-20RVFW {
     background: transparent;
 }
+
+/* transparant popout menu (message edit, etc) */
+.small-popout-box {
+    background: rgba(6, 6, 6, 0.6); /* Transparant background */
+    border: 1px solid rgba(241, 235, 235, 0.38); /* Border */
+}
+
+.option-popout .btn-item {
+    color: #d0d1d2; /* Text color */
+  }
+
+  .option-popout .btn-item:hover {
+      color: #ffffff; /* Text color on hover */
+  }
