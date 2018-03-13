@@ -15,8 +15,11 @@ An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper 
 ![Miku Theme Screenshot](https://i.imgur.com/WcdlBda.png)
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
+### Changelog
+You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-discord-theme/wiki/Changelog)
+
 ### Wallpapers
-An album with all past wallpapers can be found [here](https://imgur.com/a/5wOsk).
+An album with all past wallpapers can be found [here](https://imgur.com/a/5wOsk)
 
 ##### PS
 I know the code is messy. I'm still a bit of a beginner at CSS, especially when I started with this theme. But it works.
