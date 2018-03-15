@@ -2,6 +2,10 @@
 
 An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
 
+### Discord Server
+Join to be notified of updates and support!
+Instant invite: https://discord.gg/SyTrDzj
+
 ### How to install
 1. Make sure the dark theme is enabled in Discord. This theme is not made to be used with the light theme, and will look terrible.
 2. Make sure [BetterDiscord](https://betterdiscord.net/home/) is successfully installed
