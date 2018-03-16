@@ -799,3 +799,28 @@ form-deprecated header, .form.deprecated header {
   .option-popout .btn-item:hover {
       color: #ffffff; /* Text color on hover */
   }
+
+/* Popup on new server creation */
+.wrapper-VSYYTS {
+    background: #4e4e4e;
+}
+
+.form-deprecated .form-header, .form.deprecated .form-header {
+    background: #151515;
+}
+
+.wrapper-VSYYTS .instantInviteModal-5L33Qh .form-actions, .wrapper-VSYYTS .instantInviteModalAdvanced-38f2M0 .form-actions {
+    background-color: #151515;
+}
+
+.wrapper-VSYYTS .instantInviteModal-5L33Qh .form-header header, .has-value.Select--single>.Select-control .Select-value .Select-value-label {
+    color: #bfbfbf;
+}
+
+.wrapper-VSYYTS .instantInviteModal-5L33Qh .blurb-ArHxCz {
+    color: #c5c6c7;
+}
+
+.Select-option.is-selected {
+    background-color: #dedede;
+}
