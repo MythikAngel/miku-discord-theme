@@ -1,5 +1,5 @@
 /*Better profilepictures*/
-.avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge {
+.avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge, .callAvatar-i2aKmR.voice-3qolcc {
     border-radius: 0;
 }
 
@@ -836,4 +836,10 @@ form-deprecated header, .form.deprecated header {
 
 .Select-option.is-selected {
     background-color: #dedede;
+}
+
+/* NOTE: Call overlay */
+
+.video-3lOWa6 {
+    background-color: rgba(17, 17, 17, 0.5);
 }
