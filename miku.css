@@ -435,9 +435,17 @@ div.category, .emoji-picker .sticky-header {
 }
 
 /* NOTE: User popout */
-.user-popout .header {
-  background: url(https://i.imgur.com/w9z1XX5.jpg) #E20B6C;
-  background-size: cover;
+.userPopout-11hFKo {
+  background: url(https://i.imgur.com/B84800C.jpg) #E20B6C !important;
+  background-size: cover !important;
+}
+
+.headerNormal-3Vn9nT {
+    background-color: rgba(32, 34, 38, 0.8) !important;
+}
+
+.body-3ljq11, .footer-2wFs91 {
+    background-color: rgba(47, 49, 54, 0.7) !important;
 }
 
 .user-popout .avatar-wrapper .avatar-popout {
