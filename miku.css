@@ -521,19 +521,24 @@ div.category, .emoji-picker .sticky-header {
   }
 
 /* NOTE: Purne members */
-div.modal-inner {
-  background-image: url(https://i.imgur.com/keB6dP4.jpg);
+
+/* NOTE: Delete message */
+.inner-1_1f7b {
+  background-image: url(https://i.imgur.com/nIjSGZI.jpg);
   background-size: cover;
   background-position: center;
 }
 
-.form .form-header {
-  background: rgba(0, 0, 0, 0.3);
-  border-bottom: none;
+.footer-1PYmcw {
+    background: rgba(0, 0, 0, 0.3) !important;
 }
 
-.form .form-inner {
-  background-color: rgba(0, 0, 0, 0.5);
+.modal-3HOjGZ {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
+.message-25xg43 {
+    background-color: rgba(17, 17, 17, 0.6) !important;
 }
 
 .form .form-actions {
