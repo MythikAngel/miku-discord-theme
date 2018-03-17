@@ -2,3 +2,15 @@
 
 /* Importing CSS */
 @import url("https://mythikangel.github.io/miku-discord-theme/miku.css");
+
+/*
+--|Customizeable colors|--
+Change these values to customize the colors of the theme.
+More information and instructions can be found on the Wiki:
+https://github.com/MythikAngel/miku-discord-theme/wiki/customizing-colors
+*/
+
+:root {
+	--main-color: #E20B6C;
+	--hover-color: #C60962;
+}
