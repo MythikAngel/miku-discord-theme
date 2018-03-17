@@ -18,6 +18,9 @@ Instant invite: https://discord.gg/SyTrDzj
 #### Discord web
 Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Installing-the-theme-on-Discord-web) tutorial
 
+### Customization
+You can customize some of the colors of this theme to your own like. See [these](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-colors) instructions for more detail
+
 ### Changelog
 You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-discord-theme/wiki/Changelog)
 
@@ -28,6 +31,9 @@ You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-dis
 
 ### Wallpapers
 An album with all past wallpapers can be found [here](https://imgur.com/a/5wOsk)
+
+### Disclaimer
+The use of this theme is at your own risk. The author of this theme is NOT responsible for any potential damages.
 
 ##### PS
 I know the code is messy. I'm still a bit of a beginner at CSS, especially when I started with this theme. But it works.
