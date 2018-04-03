@@ -1,12 +1,12 @@
 /*Better profilepictures*/
-.avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge, .callAvatar-i2aKmR.voice-3qolcc {
-    border-radius: 0;
+.avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge, .callAvatar-i2aKmR.voice-3qolcc, .image-EVRGPw, .avatar-1BXaQj {
+    border-radius: 0 !important;
 }
 
 /* NOTE: background */
 
 .app {
-    background-image: url("https://i.imgur.com/geOgXoR.jpg") !important;
+    background-image: url("https://i.imgur.com/DsflSgD.jpg") !important;
     background-size: cover !important;
 }
 
@@ -857,4 +857,9 @@ form-deprecated header, .form.deprecated header {
 /* Hyperlinks */
 .message-group a {
   color: var(--main-color, #E20B6C) !important;
+}
+
+Transparent bacgrkound on hover member on server member list
+.theme-dark .member-2FrNV0:hover .content-3JzEqqq {
+    background-color: rgba(0, 0, 0, 0.25) !important; /*This isn't working, I have no idea why*/
 }
