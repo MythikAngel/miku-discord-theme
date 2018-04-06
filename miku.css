@@ -859,7 +859,11 @@ form-deprecated header, .form.deprecated header {
   color: var(--main-color, #E20B6C) !important;
 }
 
-Transparent bacgrkound on hover member on server member list
-.theme-dark .member-2FrNV0:hover .content-3JzEqqq {
-    background-color: rgba(0, 0, 0, 0.25) !important; /*This isn't working, I have no idea why*/
+/* Transparent background on hover member on server member list */
+.theme-dark .member-2FrNV0:hover .content-3JzEqq {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.members-1bid1J {
+    background-color: rgba(0, 0, 0, 0.65) !important;
 }
