@@ -13,7 +13,8 @@ Instant invite: https://discord.gg/SyTrDzj
 3. Download [Miku_theme-auto_update.theme.css](https://github.com/MythikAngel/miku-discord-theme/releases) and put it in the BD themes folder (usually `%appdata%\BetterDiscord\themes` on Windows)
 4. (Re)start Discord
 5. Enable the theme by going to Settings > Themes
-6. Done. The theme should be working now and will automatically update
+6. (_Optional_) Install [Old Title Bar](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OldTitleBar) (theme looks better with this plugin)
+7. Done. The theme should be working now and will automatically update
 
 #### Discord web
 Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Installing-the-theme-on-Discord-web) tutorial
