@@ -9,11 +9,12 @@ Instant invite: https://discord.gg/SyTrDzj
 ### Installation
 #### Discord client
 1. Make sure the dark theme is enabled in Discord. This custom theme is not made to be used with the light theme, and will look terrible with it.
-2. Make sure [BetterDiscord](https://betterdiscord.net/home/) is successfully installed
+2. Make sure [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/tag/0.3.0i) is successfully installed
 3. Download [Miku_theme-auto_update.theme.css](https://github.com/MythikAngel/miku-discord-theme/releases) and put it in the BD themes folder (usually `%appdata%\BetterDiscord\themes` on Windows)
 4. (Re)start Discord
 5. Enable the theme by going to Settings > Themes
-6. Done. The theme should be working now and will automatically update
+6. (_Optional_) Install [Old Title Bar](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OldTitleBar) (theme looks better with this plugin)
+7. Done. The theme should be working now and will automatically update
 
 #### Discord web
 Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Installing-the-theme-on-Discord-web) tutorial
