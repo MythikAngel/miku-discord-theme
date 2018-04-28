@@ -875,7 +875,7 @@ form-deprecated header, .form.deprecated header {
 }
 
 /* 6-4-2018 server userlist background fix */
-.members-1bid1J {
+.members-1998pB {
     background-color: rgba(0, 0, 0, 0.65) !important;
 }
 
@@ -889,3 +889,11 @@ form-deprecated header, .form.deprecated header {
     background: rgba(0, 0, 0, 0.8);
     margin-bottom: 0;
 }
+
+.container-PNkimc { /* Server channel bar */
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.theme-dark .headerBar-UHpsPw { /*Header bar*/
+    background: rgba(0, 0, 0, 0.33) !important;
+  }
