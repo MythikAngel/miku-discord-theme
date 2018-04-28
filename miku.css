@@ -894,6 +894,14 @@ form-deprecated header, .form.deprecated header {
     background-color: rgba(0, 0, 0, 0.7);
 }
 
+.contentSelectedText-3wUhMi {
+    background-color: rgba(0, 0, 0, 0.23);
+}
+
+.contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
+    background-color: rgba(0, 0, 0, 0.12);
+}
+
 .theme-dark .headerBar-UHpsPw { /*Header bar*/
     background: rgba(0, 0, 0, 0.33) !important;
   }
