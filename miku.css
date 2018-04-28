@@ -46,7 +46,7 @@
 }
 
 /* NOTE: Chat topbar */
-div.title-wrap {
+.title-3qD0b- {
   background-color: rgba(0,0,0,0.7) !important;
 }
 
@@ -175,8 +175,14 @@ div.account .avatar-small {
 }
 
 /* NOTE: Black transparent (online status) popup */
-.menu-3BZuDT {
+.menu-Sp6bN1 {
   background: rgba(0,0,0,0.8) !important;
+}
+
+.theme-dark .item-1GzJrl:hover {
+    background-color: var(--main-color, #E20B6C);
+    opacity: 0.6;
+    color: #fff;
 }
 
 .separator-1hpa3S {
@@ -490,13 +496,17 @@ div.category, .emoji-picker .sticky-header {
 }
 
 /* NOTE: Context menu */
-.theme-dark.context-menu, .theme-dark.context-menu .context-menu, .contextMenu-uoJTbz {
+.theme-dark.context-menu, .theme-dark.context-menu .context-menu, .contextMenu-uoJTbz, .contextMenu-HLZMGh {
     background: rgba(0,0,0,0.8) !important;
-  }
+}
 
-.item-1XYaYf:hover {
+.itemSubMenu-1vN_Yn {
+  background: none !important;
+}
+
+.item-1XYaYf:hover, .itemSubMenu-1vN_Yn:hover, .item-1Yvehc:hover {
     background-color: var(--main-color, #E20B6C) !important;
-    opacity: 0.58;
+    /* opacity: 0.58;  (this brakes to invite to server menu)*/
 }
 
 
@@ -755,7 +765,7 @@ form-deprecated header, .form.deprecated header {
     border-color: var(--main-color, #E20B6C) !important;
 }
 
-/*Pinned msg transparant*/
+/*Pinned msg transparent*/
 
 .themed-popout {
   background-color: rgba(0, 0, 0, 0.3) !important;
@@ -800,9 +810,9 @@ form-deprecated header, .form.deprecated header {
     background: transparent;
 }
 
-/* transparant popout menu (message edit, etc) */
+/* transparent popout menu (message edit, etc) */
 .small-popout-box {
-    background: rgba(6, 6, 6, 0.6); /* Transparant background */
+    background: rgba(6, 6, 6, 0.6); /* Transparent background */
     border: 1px solid rgba(241, 235, 235, 0.38); /* Border */
 }
 
@@ -867,4 +877,15 @@ form-deprecated header, .form.deprecated header {
 /* 6-4-2018 server userlist background fix */
 .members-1bid1J {
     background-color: rgba(0, 0, 0, 0.65) !important;
+}
+
+/* 28-04-2018 fix */
+.container-2lgZY8,.layer-3QrUeG, .layers-3iHuyZ, .channels-Ie2l6A {
+  background-color: transparent !important;
+  background: none !important;
+}
+
+.container-2Thooq {
+    background: rgba(0, 0, 0, 0.8);
+    margin-bottom: 0;
 }
