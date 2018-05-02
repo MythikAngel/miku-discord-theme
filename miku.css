@@ -84,9 +84,10 @@ div.channel.channel-text.selected,.guild-channels .channel-text:hover, .private-
 }
 
 /* NOTE: Sidebar account shizzle & co */
-div.account, ul.links, div#voice-connection {
-  background-color: rgba(0,0,0,0.78) !important;
+div.account, ul.links, div#voice-connection, .container-1UB9sr {
+  background-color: rgba(0,0,0,0.80) !important;
   border-top: 1px solid rgba(0,0,0,0.13) !important;
+  border-bottom: 1px solid rgba(0,0,0,0.13) !important;
 }
 
 .account .btn, #voice-connection .btn {
