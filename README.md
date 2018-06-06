@@ -26,7 +26,7 @@ You can customize some of the colors of this theme to your own like. See [these]
 You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-discord-theme/wiki/Changelog)
 
 ### Screenshots
-![Miku Theme Screenshot](https://i.imgur.com/16ENzje.png)
+![Miku Theme Screenshot](https://i.imgur.com/4PFXjXE.png)
 ![Miku Theme Screenshot](https://i.imgur.com/WcdlBda.png)
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
