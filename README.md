@@ -1,6 +1,6 @@
 # Miku Discord theme
-![Release](https://img.shields.io/github/release/MythikAngel/miku-discord-theme.svg?style=flat-square)
-![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)
+[![Release](https://img.shields.io/github/release/MythikAngel/miku-discord-theme.svg?style=flat-square)](https://github.com/MythikAngel/miku-discord-theme/releases/latest)
+[![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)](https://www.somsubhra.com/github-release-stats/?username=mythikangel&repository=miku-discord-theme)
 [![Discord Server](https://img.shields.io/discord/423787339018534912.svg?style=flat-square)](https://discord.gg/SyTrDzj)
 
 An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
@@ -12,8 +12,8 @@ Instant invite: https://discord.gg/SyTrDzj
 ### Installation
 #### Discord client
 1. Make sure the dark theme is enabled in Discord. This custom theme is not made to be used with the light theme, and will look terrible with it.
-2. Make sure [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/tag/0.3.0i) is successfully installed
-3. Download [Miku_theme-auto_update.theme.css](https://github.com/MythikAngel/miku-discord-theme/releases) and put it in the BD themes folder (usually `%appdata%\BetterDiscord\themes` on Windows)
+2. Make sure [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp/releases/latest) is successfully installed
+3. Download [Miku_theme-auto_update.theme.css](https://github.com/MythikAngel/miku-discord-theme/releases/latest) and put it in the BD themes folder (usually `%appdata%\BetterDiscord\themes` on Windows)
 4. (Re)start Discord
 5. Enable the theme by going to Settings > Themes
 6. (_Optional_) Install [Old Title Bar](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OldTitleBar) (theme looks better with this plugin)
