@@ -1,4 +1,7 @@
 # Miku Discord theme
+![Release](https://img.shields.io/github/release/MythikAngel/miku-discord-theme.svg?style=flat-square)
+![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)
+[![Discord Server](https://img.shields.io/discord/423787339018534912.svg?style=flat-square)](https://discord.gg/SyTrDzj)
 
 An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
 
