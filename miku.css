@@ -875,6 +875,16 @@ form-deprecated header, .form.deprecated header {
     background-color: rgba(0, 0, 0, 0.3) !important;
 }
 
+/* DM icon background color */
+.guilds-wrapper .guilds .guild.active:first-of-type .guild-inner {
+    background: var(--main-color, #E20B6C) !important;
+}
+
+/* Server icon background color */
+.guilds-wrapper .guilds .guild .guild-inner {
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+
 /* 6-4-2018 server userlist background fix */
 .members-1998pB {
     background-color: rgba(0, 0, 0, 0.65) !important;
