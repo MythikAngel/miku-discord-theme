@@ -1,3 +1,12 @@
+/*
+* HEADS-UP!
+* If you're trying to install the theme into Discord, you should not be reading this.
+* Installing this file directly into Discord will DISABLE the auto-update functionality.
+* Instead install "Miku_theme-auto_update.theme.css" located at: https://github.com/MythikAngel/miku-discord-theme/releases/latest
+* and ignore this file.
+* More in-depth instructions can be found at the homepage of the theme: https://github.com/MythikAngel/miku-discord-theme
+*/
+
 /*Better profilepictures*/
 .avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge, .callAvatar-v-u4BM.voice-2D-tt_, .image-33JSyf, .avatar-16XVId {
     border-radius: 0 !important;
@@ -146,12 +155,6 @@ div.guilds-wrapper {
 /* NOTE: Text scroll fix */
 div.channel-textarea-inner textarea {
     overflow: auto !important;
-}
-
-/* NOTE: Anime girls emoticons icon */
-.channel-textarea-emoji>.sprite-item,
-.channel-textarea-emoji.popout-open .spinner-item {
-  background-image: url(https://i.imgur.com/6DBKofn.png) !important;
 }
 
 /* NOTE: 15-7-2016 fix */
@@ -461,7 +464,11 @@ div.category, .emoji-picker .sticky-header {
 
 .user-popout .body, .user-popout .footer {
     background: rgba(0, 0, 0, 0.75);
-  }
+}
+
+.headerPlaying-j0WQBV { /*Now Playing a game*/
+    background: rgba(0, 0, 0, 0.65);
+}
 
   /* NOTE: User profile */
   div#user-profile-modal, .root-SR8cQa {
@@ -499,10 +506,6 @@ div.category, .emoji-picker .sticky-header {
 /* NOTE: Context menu */
 .theme-dark.context-menu, .theme-dark.context-menu .context-menu, .contextMenu-HLZMGh, .contextMenu-HLZMGh {
     background: rgba(0,0,0,0.8) !important;
-}
-
-.itemSubMenu-1vN_Yn {
-  background: none !important;
 }
 
 .item-1Yvehc:hover, .itemSubMenu-1vN_Yn:hover, .item-1Yvehc:hover {
@@ -620,7 +623,7 @@ div.category, .emoji-picker .sticky-header {
 }
 
 .create-guild-container.deprecated .create-or-join .form-inner, .form-deprecated .form-inner, .form.deprecated .form-inner {
-  background: rgba(0,0,0,0.4) !important;
+  background: rgba(0,0,0,0.6) !important;
 }
 
 .create-guild-container.deprecated .action {
@@ -916,3 +919,19 @@ form-deprecated header, .form.deprecated header {
 .theme-dark .headerBar-UHpsPw { /*Header bar*/
     background: rgba(0, 0, 0, 0.33) !important;
   }
+
+/* Quickswitcher */
+.quickswitcher-3JagVE { /*Main BG*/
+    background-color: rgba(0, 0, 0, 0.6) !important;
+}
+
+.input-2VB9rf { /*Searchbox*/
+    background-color: rgba(0, 0, 0, 0.35) !important;
+}
+
+.resultFocused-3aIoYe { /*Result*/
+    background-color: rgba(0, 0, 0, 0.5) !important;
+}
+.contentUnread-3gTHvA .note-S--UP5, .tipsMiscControls-vCHjy1, .tipsWithResults-HhTE9b, .tipsWithoutResults-lGY-De, .emptyStateNote-ZYTetQ /*Small Text*/ {
+    color: #9e9fa2 !important;
+}
