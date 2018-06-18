@@ -470,8 +470,8 @@ div.category, .emoji-picker .sticky-header {
     background: rgba(0, 0, 0, 0.65);
 }
 
-  /* NOTE: User profile */
-  div#user-profile-modal, .root-SR8cQa {
+/* NOTE: User profile */
+div#user-profile-modal, .root-SR8cQa {
         background-image: url(https://i.imgur.com/5cSbBET.jpg);
         background-size: cover;
         background-position: center;
@@ -501,6 +501,15 @@ div.category, .emoji-picker .sticky-header {
 
 #user-profile-modal .header .discord-tag .discriminator {
     color: rgba(255,255,255,0.5);
+}
+
+/* Profile overview */
+.topSectionPlaying-1J5E4n, .topSectionNormal-2-vo2m {
+    background: rgba(0, 0, 0, 0.75) !important;
+}
+
+.headerFill-adLl4x {
+    background-color: transparent !important;
 }
 
 /* NOTE: Context menu */
@@ -934,4 +943,14 @@ form-deprecated header, .form.deprecated header {
 }
 .contentUnread-3gTHvA .note-S--UP5, .tipsMiscControls-vCHjy1, .tipsWithResults-HhTE9b, .tipsWithoutResults-lGY-De, .emptyStateNote-ZYTetQ /*Small Text*/ {
     color: #9e9fa2 !important;
+}
+
+/* New server invite people box */
+.channelNotices-41mJbj .channelNotice-1-XFjC.invite-OjTXrW {
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+.channelNotices-41mJbj .channelNotice-1-XFjC .message-3SOT5P .btn-11C5_u {
+    background-color: var(--main-color, #E20B6C);
+    opacity: 0.8;
 }
