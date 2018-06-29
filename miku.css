@@ -196,7 +196,7 @@ div.account .avatar-small {
 
 /* NOTE: Settings background */
 .form.settings {
-  background-image: url(https://i.imgur.com/fBsYEtD.jpg) !important;
+  background-image: url("https://i.imgur.com/PGO4Gtr.jpg") !important;
   background-size: cover !important;
   background-position: center !important;
 }
@@ -684,11 +684,11 @@ form-deprecated header, .form.deprecated header {
 
 /*Main background*/
 .ui-standard-sidebar-view {
-    background: url("https://i.imgur.com/fBsYEtD.jpg") !important;
+    background: url("https://i.imgur.com/PGO4Gtr.jpg") !important;
     background-size: cover !important;
 }
 
-/*Elemenating colid background*/
+/*Elemenating solid background*/
 .content-region  {
     background: rgba(0,0,0,0.6) !important;
 }
@@ -769,8 +769,12 @@ form-deprecated header, .form.deprecated header {
     background-color: transparent;
 }
 
-.theme-dark .private-channel-call {
-    background-color: rgba(0, 0, 0, 0.7);
+.wrapper-29NfPK {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {
+    border-radius: 0% !important;
 }
 
 /*Settings input border color*/
@@ -811,7 +815,7 @@ form-deprecated header, .form.deprecated header {
 }
 
 .theme-dark .headerBar-UHpsPw {
-    background: rgba(0, 0, 0, 0.3);
+    background: rgba(0, 0, 0, 0.25);
 }
 
 .theme-dark .title-3qD0b- {
@@ -924,10 +928,6 @@ form-deprecated header, .form.deprecated header {
 .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active {
     background-color: rgba(0, 0, 0, 0.12);
 }
-
-.theme-dark .headerBar-UHpsPw { /*Header bar*/
-    background: rgba(0, 0, 0, 0.33) !important;
-  }
 
 /* Quickswitcher */
 .quickswitcher-3JagVE { /*Main BG*/
