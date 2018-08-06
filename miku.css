@@ -1037,3 +1037,21 @@ form-deprecated header, .form.deprecated header {
 .lookFilled-1Gx00P.colorGreen-29iAKY:disabled {
     background-color: #353535 !important;
 }
+
+/* NOTE: Emergency fix */
+/* Temporary fix until discord-diff is updated */
+.chat-3bRxxu, .chat-3bRxxu form, .content-yTz4x3 {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+}
+
+.messagesWrapper-3lZDfY {
+    background-color: rgba(0, 0, 0, 0.33) !important;
+}
+
+.chat-3bRxxu form {
+    margin: 0 !important;
+}
+
+.inner-zqa7da {
+    margin: 0 20px !important;
+}
