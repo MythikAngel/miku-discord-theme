@@ -1070,3 +1070,8 @@ form-deprecated header, .form.deprecated header {
 .guildsWrapper-5TJh6A {
     background-color: rgba(0, 0, 0, 0.8) !important;
 }
+
+/* Statusbox */
+.container-2Thooq {
+    background: rgba(0, 0, 0, 0.8) !important;
+}
