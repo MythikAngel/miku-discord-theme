@@ -17,6 +17,7 @@
 .app {
     background-image: url("https://i.imgur.com/B8xVNgo.jpg") !important;
     background-size: cover !important;
+    background-position: center;
 }
 
 /* NOTE: main chat */
@@ -1060,28 +1061,6 @@ form-deprecated header, .form.deprecated header {
 .messageGroupBlocked-3wrQQX.revealed-1_RKsf, .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
     background: rgba(0, 0, 0, 0.3) !important;
     border-color: rgba(0, 0, 0, 0.3) !important;
-}
-
-/* NOTE: Date divider */
-.divider-3gKybi span {
-    background-color: rgba(0, 0, 0, 0.3) !important;
-}
-
-.divider-3gKybi:not(.red-1YQ4s7) span {
-    color: rgba(153,170,181,.5) !important;
-}
-
-.messageGroupBlocked-3wrQQX {
-    background: none !important;
-    border-color: rgba(0, 0, 0, 0.3) !important;
-}
-
-.divider-3gKybi:before {
-    background-color: transparent !important;
-}
-
-.divider-3gKybi:not(.red-1YQ4s7) div {
-    background: rgba(35, 35, 35, 0.8) !important;
 }
 
 /* NOTE: Emergency fix */
