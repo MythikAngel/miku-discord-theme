@@ -5,9 +5,6 @@
 
 An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
 
-## Theme partly broken
-Temporary fix for the biggest issues has been released. Waiting for [discord-diff](https://github.com/intrnl/discord-diff) to be updated for a full fix.
-
 ### Discord Server
 Join to be notified of updates and support!
 Instant invite: https://discord.gg/SyTrDzj
