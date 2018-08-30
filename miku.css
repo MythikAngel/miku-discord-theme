@@ -163,8 +163,9 @@ div.chat.flex-vertical.flex-spacer {
 }
 
 /* NOTE: unread server icon */
-.guilds-wrapper .guilds .guild.unread:before, .guilds-wrapper .guilds .guild.selected:before {
-  background: rgba(226,11,108,0.9);
+.guild-1EfMGQ.unread-qLkInr:before, .unread-1Dp-OI {
+    background: var(--main-color, #E20B6C) !important;
+    opacity: 0.7;
 }
 
 /* NOTE: Bigger account avatar */
@@ -379,12 +380,12 @@ div#bd-customcss-innerpane {
 
 /* NOTE: Scrollbar */
 .scroller-wrap .scroller::-webkit-scrollbar-thumb, .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-  background-color: var(--main-color, #C60962);
+  background-color: var(--main-color, #C60962) !important;
   border-color: transparent !important;
 }
 
 .scroller-wrap .scroller::-webkit-scrollbar-track-piece {
-  background-color: rgba(0, 0, 0, 0.3);
+  background-color: rgba(0, 0, 0, 0.3) !important;
   border-color: transparent;
 }
 
@@ -469,6 +470,12 @@ div.category, .emoji-picker .sticky-header {
 
 .headerPlaying-j0WQBV { /*Now Playing a game*/
     background: rgba(0, 0, 0, 0.65);
+}
+
+/* Message box */
+.quickMessage-1yeL4E {
+    background-color: rgba(0, 0, 0, 0.35) !important;
+    border-color: #23262a !important;
 }
 
 /* NOTE: User profile */
@@ -1047,6 +1054,34 @@ form-deprecated header, .form.deprecated header {
 
 .homeIcon-1FoKUJ {
     color: transparent !important;
+}
+
+/* NOTE: Blocked messages */
+.messageGroupBlocked-3wrQQX.revealed-1_RKsf, .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
+    background: rgba(0, 0, 0, 0.3) !important;
+    border-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* NOTE: Date divider */
+.divider-3gKybi span {
+    background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.divider-3gKybi:not(.red-1YQ4s7) span {
+    color: rgba(153,170,181,.5) !important;
+}
+
+.messageGroupBlocked-3wrQQX {
+    background: none !important;
+    border-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+.divider-3gKybi:before {
+    background-color: transparent !important;
+}
+
+.divider-3gKybi:not(.red-1YQ4s7) div {
+    background: rgba(35, 35, 35, 0.8) !important;
 }
 
 /* NOTE: Emergency fix */
