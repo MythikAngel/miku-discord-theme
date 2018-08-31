@@ -7,17 +7,17 @@
 * More in-depth instructions can be found at the homepage of the theme: https://github.com/MythikAngel/miku-discord-theme
 */
 
-/*Better profilepictures*/
-.avatar-large, .avatar-small, .avatar-popout, .avatar-wrapper, .avatar-profile, .avatar-uploader .avatar-uploader-inner, .avatar-xxlarge, .callAvatar-v-u4BM.voice-2D-tt_, .image-33JSyf, .avatar-16XVId {
-    border-radius: 0 !important;
-}
-
 /* NOTE: background */
-
 .app {
     background-image: url("https://i.imgur.com/skuTAcC.jpg");
     background-size: cover !important;
     background-position: center;
+}
+
+/* NOTE: Square avatars */
+.image-33JSyf, .wrapper-2F3Zv8, .avatar-large, .avatar-profile, .avatar-small, .avatar-xlarge, .avatar-xsmall, .avatar-xxlarge, .avatarHint-1qgaV3, .avatarWrapper-3H_478, .callAvatar-v-u4BM.voice-2D-tt_, .callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI
+{
+    border-radius: var(--avatar-radius, 0px) !important;
 }
 
 /* NOTE: main chat */
@@ -156,11 +156,6 @@ div.guilds-wrapper {
 /* NOTE: Text scroll fix */
 div.channel-textarea-inner textarea {
     overflow: auto !important;
-}
-
-/* NOTE: 15-7-2016 fix */
-div.chat.flex-vertical.flex-spacer {
-  background: none;
 }
 
 /* NOTE: unread server icon */
@@ -618,11 +613,6 @@ div#user-profile-modal, .root-SR8cQa {
     border-color: var(--main-color, #E20B6C);
 }
 
-.guild-settings-modal-emoji .emoji-uploader .emoji-uploader-avatar {
-  border-radius: 0 !important;
-}
-
-
 /* NOTE: Security */
 .guild-settings-modal-security .control-group .help-text a {
   color: var(--main-color, #E20B6C);
@@ -677,17 +667,6 @@ form-deprecated header, .form.deprecated header {
 .message-group .edit-message .edit-operation>a {
   color: rgba(226,11,108,0.9);
 }
-
-/* NOTE: 16-2-2017 Master background fix */
-.layers {
-  background: none !important;
-}
-
-/* NOTE: 26-4-2017 Master background fix */
-.theme-dark .layer, .theme-dark .layers {
-  background: none;
-}
-
 
 /* NOTE: !! NEW SETTINGS !! */
 
@@ -749,10 +728,6 @@ form-deprecated header, .form.deprecated header {
     background: rgba(0, 0, 0, 0.77);
 }
 
-.avatarDefault-35WC3R, .avatarSpeaking-1wJCNq, .ui-call-avatar.voice {/*Square profile pictures*/
-  border-radius: 0;
-}
-
 /*Del mesg background fix*/
 .modal-content {
   background-color: transparent;
@@ -780,10 +755,6 @@ form-deprecated header, .form.deprecated header {
 
 .wrapper-29NfPK {
     background-color: rgba(0, 0, 0, 0.7) !important;
-}
-
-.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI {
-    border-radius: 0% !important;
 }
 
 /*Settings input border color*/
@@ -912,7 +883,7 @@ form-deprecated header, .form.deprecated header {
 
 /* 6-4-2018 server userlist background fix */
 .members-1998pB {
-    background-color: rgba(0, 0, 0, 0.65) !important;
+    background-color: rgba(0, 0, 0, 0.45) !important;
 }
 
 /* 28-04-2018 fix */
@@ -1055,6 +1026,10 @@ form-deprecated header, .form.deprecated header {
 
 .homeIcon-1FoKUJ {
     color: transparent !important;
+}
+
+.guild-1EfMGQ:first-of-type .guildInner-3DSoA4 .wrapper-2F3Zv8:first-of-type {
+    background: #666; /* The Number of the Beast */
 }
 
 /* NOTE: Blocked messages */
