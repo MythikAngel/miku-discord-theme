@@ -66,7 +66,7 @@ div.guild-header header {
   background-color: rgba(0,0,0,0.74) !important;
 }
 
-div.private-channels,div.scroller.guild-channels {
+div.privateChannels-1nO12o,div.scroller.guild-channels {
   background-color: rgba(0, 0, 0, 0.7) !important;
 }
 
@@ -78,6 +78,11 @@ div.flex-vertical.channels-wrap {
     top: -56px;
     padding-top: 100px;
     background-color: rgba(18, 18, 18, 0.9) !important;
+}
+
+/* On hover */
+.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a {
+    background-color:  rgba(0,0,0,0.3) !important;
 }
 
 /* NOTE: select highlight */
@@ -405,41 +410,6 @@ border-right-color: var(--main-color, #E20B6C) !important;
 
 .tooltip.tooltip-bottom:after {
 border-bottom-color: var(--main-color, #E20B6C) !important;
-}
-
-/* NOTE: Emotes */
-.bda-dark #bda-qem-favourite-container, .bda-dark #bda-qem-twitch-container, .bda-dark .emoji-picker, .bda-dark .emoji-picker .category, .bda-dark #bda-qem button {
-  background-color: rgba(0,0,0,0.6);
-}
-
-.emoji-picker .categories .item.selected {
-    border-bottom-color: var(--main-color, #E20B6C);
-}
-
-.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece {
-  background-color: rgba(0, 0, 0, 0.3) !important;
-  border-color: rgba(0, 0, 0, 0.0) !important;
-}
-
-.bda-dark .emoji-picker .scroller::-webkit-scrollbar, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-track-piece, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-track-piece, .bda-dark #pubs-container .scroller::-webkit-scrollbar, .bda-dark #pubs-container .scroller::-webkit-scrollbar-track, .bda-dark #pubs-container .scroller::-webkit-scrollbar-track-piece
-  {
-    background-color: rgba(0, 0, 0, 0.3) !important;
-    border-color: rgba(0, 0, 0, 0.0) !important;
-}
-
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track, .bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-track-piece
-  {
-    background-color: rgba(0, 0, 0, 0.3) !important;
-    border-color: rgba(0, 0, 0, 0.0) !important;
-}
-
-.bda-dark #bda-qem-favourite-container .scroller::-webkit-scrollbar-thumb, .bda-dark #bda-qem-twitch-container .scroller::-webkit-scrollbar-thumb, .bda-dark #pubs-container .scroller::-webkit-scrollbar-thumb, .bda-dark .emoji-picker .scroller::-webkit-scrollbar-thumb {
-  background-color: var(--hover-color, #E20B6C) !important;
-  border-color: transparent !important;
-}
-
-div.category, .emoji-picker .sticky-header {
-    background-color: rgba(0,0,0,0.5) !important;
 }
 
 /* NOTE: User popout */
@@ -1063,4 +1033,14 @@ form-deprecated header, .form.deprecated header {
 /* Statusbox */
 .container-2Thooq {
     background: rgba(0, 0, 0, 0.8) !important;
+}
+
+/* Message option menu */
+.container-3cGP6G {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
+
+.item-2J1YMK:active, .item-2J1YMK:hover {
+    background-color: var(--hover-color, #E20B6C) !important;
+    opacity: 0.8;
 }
