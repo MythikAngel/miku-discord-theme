@@ -199,7 +199,6 @@ div.account .avatar-small {
 
 /* NOTE: Settings background */
 .form.settings {
-  background-image: url("https://i.imgur.com/PGO4Gtr.jpg") !important;
   background-size: cover !important;
   background-position: center !important;
 }
@@ -642,7 +641,7 @@ form-deprecated header, .form.deprecated header {
 
 /*Main background*/
 .ui-standard-sidebar-view {
-    background: url("https://i.imgur.com/PGO4Gtr.jpg") !important;
+    background-image: url("https://i.imgur.com/0FU8Ked.jpg") /*url("https://i.imgur.com/PGO4Gtr.jpg")*/ !important;
     background-size: cover !important;
 }
 
@@ -990,8 +989,9 @@ form-deprecated header, .form.deprecated header {
 
 /* NOTE: Miku friend list icon */
 .guild-1EfMGQ:first-of-type .guildInner-3DSoA4 {
-	background-image: url("https://i.imgur.com/EQ9ex3N.png") !important;
+	background-image: url("https://i.imgur.com/94ISYzq.jpg") /*url("https://i.imgur.com/EQ9ex3N.png")*/ !important;
     background-size: cover !important;
+    background-position: center !important;
 }
 
 .homeIcon-1FoKUJ {
@@ -1006,6 +1006,19 @@ form-deprecated header, .form.deprecated header {
 .messageGroupBlocked-3wrQQX.revealed-1_RKsf, .messageGroupBlocked-3wrQQX .messageGroupBlockedBtn-1PBBh- {
     background: rgba(0, 0, 0, 0.3) !important;
     border-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* NOTE: Discord game store */
+.applicationStore-1pNvnv {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.theme-dark .tileWrapper-2khh-w {
+    background-color: rgba(0, 0, 0, 0.45) !important;
+}
+
+.searchBox-3Y2Vi7 {
+    background-color: rgba(0, 0, 0, 0.3) !important;
 }
 
 /* NOTE: Emergency fix */
