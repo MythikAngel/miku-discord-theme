@@ -640,17 +640,17 @@ form-deprecated header, .form.deprecated header {
 /* NOTE: !! NEW SETTINGS !! */
 
 /*Main background*/
-.ui-standard-sidebar-view {
+.standardSidebarView-3F1I7i {
     background-image: url("https://i.imgur.com/0FU8Ked.jpg") /*url("https://i.imgur.com/PGO4Gtr.jpg")*/ !important;
     background-size: cover !important;
 }
 
 /*Elemenating solid background*/
-.content-region  {
+.contentRegion-3nDuYy  {
     background: rgba(0,0,0,0.6) !important;
 }
 
-.sidebar-region  {
+.sidebarRegion-VFTUkN  {
     background: rgba(0,0,0,0.8) !important;
 }
 
