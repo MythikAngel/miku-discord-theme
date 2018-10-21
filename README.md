@@ -3,10 +3,7 @@
 [![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)](https://www.somsubhra.com/github-release-stats/?username=mythikangel&repository=miku-discord-theme)
 [![Discord Server](https://img.shields.io/discord/423787339018534912.svg?style=flat-square)](https://discord.gg/SyTrDzj)
 
-An automatically updating Hatsune Miku Discord theme. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
-
-### New optional square avatars
-Since the theme is becoming more popular, and not everyone seems to like the square avatars of the theme, I decided to make it an optional feature. See [these](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-theme) instructions on how to restore round avatars.
+An automatically updating Hatsune Miku Discord theme with optional square avatars. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
 
 ### Discord Server
 Join to be notified of updates and support!
@@ -41,7 +38,9 @@ You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-dis
 An album with all past wallpapers can be found [here](https://imgur.com/a/5wOsk)
 
 ### Disclaimer
-The use of this theme is at your own risk. The author of this theme is NOT responsible for any potential damages.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Also DISABLE the theme whenever making purchases (like Discord Nitro or games). The theme hasn't been tested for that.
 
 ##### PS
 Yes, I know the code is messy.
