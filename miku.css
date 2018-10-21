@@ -148,14 +148,14 @@ div.guilds-wrapper {
 
 
 /* NOTE: Scrollbar */
-.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-track-piece {
+.friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, ::-webkit-scrollbar-track-piece {
   background-color: rgba(0, 0, 0, 0.3) !important;
-  border-color: rgba(0, 0, 0, 0.0);
+  border-color: rgba(0, 0, 0, 0.0) !important;
 }
 
-.theme-dark .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, .theme-dark .messages-wrapper .scroller-wrap ::-webkit-scrollbar-thumb  {
-  background-color: var(--hover-color, #C60962);
-  border-color: transparent;
+.friends-table .scroller-wrap ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb  {
+  background-color: var(--hover-color, #C60962) !important;
+  border-color: transparent !important;
 }
 
 /* NOTE: Text scroll fix */
@@ -1019,6 +1019,15 @@ form-deprecated header, .form.deprecated header {
 
 .searchBox-3Y2Vi7 {
     background-color: rgba(0, 0, 0, 0.3) !important;
+}
+
+/* NOTE: Game libary */
+.gameLibrary-TTDw4Y {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+}
+
+.header-39GIC8 {
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 /* NOTE: Emergency fix */
