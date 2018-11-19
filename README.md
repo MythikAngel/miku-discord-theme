@@ -37,7 +37,7 @@ You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-dis
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
 ### Wallpapers
-An album with all current and past wallpapers can be found [here](https://imgur.com/a/5wOsk). If the source of an image is known, it will be listed in the description. Please note that some of the images are resized or even flipped sometimes in order to make them competible for the theme.
+An album with all current and past wallpapers can be found [here](https://imgur.com/a/5wOsk). If the source of an image is known, it will be listed in the description. Please note that some of the images are resized or even flipped sometimes in order to make them compatible for the theme.
 
 ### Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
