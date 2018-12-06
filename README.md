@@ -3,6 +3,8 @@
 [![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)](https://www.somsubhra.com/github-release-stats/?username=mythikangel&repository=miku-discord-theme)
 [![Discord Server](https://img.shields.io/discord/423787339018534912.svg?style=flat-square)](https://discord.gg/SyTrDzj)
 
+_(114 downloads before update)_
+
 An automatically updating Hatsune Miku Discord theme with optional square avatars. I'll change the wallpaper regularly to another picture of Miku (like at a seasonal event). This process is automatic, once installed you don't have to do anything.
 
 ### Discord Server
@@ -35,7 +37,7 @@ You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-dis
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
 ### Wallpapers
-An album with all past wallpapers can be found [here](https://imgur.com/a/5wOsk)
+An album with all current and past wallpapers can be found [here](https://imgur.com/a/5wOsk). If the source of an image is known, it will be listed in the description. Please note that some of the images are resized or even flipped sometimes in order to make them compatible for the theme.
 
 ### Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
