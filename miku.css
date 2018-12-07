@@ -641,7 +641,7 @@ form-deprecated header, .form.deprecated header {
 
 /*Main background*/
 .standardSidebarView-3F1I7i {
-    background-image: url("https://i.imgur.com/VJMmdW3.jpg") !important;
+    background-image: url("https://i.imgur.com/IvDTF3G.jpg") !important;
     background-size: cover !important;
 }
 
@@ -1050,6 +1050,7 @@ form-deprecated header, .form.deprecated header {
 
 .guildsWrapper-5TJh6A {
     background-color: rgba(0, 0, 0, 0.8) !important;
+    background-color: rgba(0, 0, 0, 0.5) !important;
 }
 
 /* Statusbox */
