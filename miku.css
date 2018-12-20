@@ -9,7 +9,7 @@
 
 /* NOTE: background */
 .app {
-    background-image: url("https://i.imgur.com/0V46JBJ.jpg");
+    background-image: url("https://i.imgur.com/m6PzZq3.jpg");
     background-size: cover !important;
     /* background-position: center; */
 }
@@ -1028,6 +1028,11 @@ form-deprecated header, .form.deprecated header {
 
 .header-39GIC8 {
     background-color: rgba(0, 0, 0, 0.3);
+}
+
+/* Gift inventory */
+.root-1BQpZw {
+    background-color: rgba(0, 0, 0, 0.7) !important;
 }
 
 /* NOTE: Emergency fix */
