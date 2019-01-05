@@ -9,7 +9,7 @@
 
 /* NOTE: background */
 .app {
-    background-image: url("https://i.imgur.com/m6PzZq3.jpg");
+    background-image: url("https://i.imgur.com/lnpB16f.jpg");
     background-size: cover !important;
     /* background-position: center; */
 }
@@ -641,8 +641,9 @@ form-deprecated header, .form.deprecated header {
 
 /*Main background*/
 .standardSidebarView-3F1I7i {
-    background-image: url("https://i.imgur.com/IvDTF3G.jpg") !important;
+    background-image: url("https://i.imgur.com/VJMmdW3.jpg") !important;
     background-size: cover !important;
+    background-position: right !important;
 }
 
 /*Elemenating solid background*/
