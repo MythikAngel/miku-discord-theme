@@ -1073,3 +1073,8 @@ form-deprecated header, .form.deprecated header {
     background-color: var(--hover-color, #E20B6C) !important;
     opacity: 0.8;
 }
+
+/* 12-1-2019 friendlist fix */
+.container-3gCOGc {
+    background-color: rgba(0, 0, 0, 0.66) !important;
+}
