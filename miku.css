@@ -8,7 +8,7 @@
 */
 
 /* NOTE: background */
-.app {
+#app-mount {
     background-image: url("https://i.imgur.com/lnpB16f.jpg");
     background-size: cover !important;
     /* background-position: center; */
