@@ -1078,3 +1078,9 @@ form-deprecated header, .form.deprecated header {
 .container-3gCOGc {
     background-color: rgba(0, 0, 0, 0.66) !important;
 }
+
+/* 15-1-2019 titlebar fix */
+.titleBar-AC4pGV {
+    background: black;
+    margin: 0;
+}
