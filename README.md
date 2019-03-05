@@ -33,7 +33,7 @@ You can follow the progress and planned features/fixes on the [Trello board](htt
 
 ### Screenshots
 #### Chat
-![Miku Theme Screenshot](https://i.imgur.com/mwnZwzA.png)
+![Miku Theme Screenshot](https://i.imgur.com/hbAbbqm.png)
 #### Settings
 ![Miku Theme Screenshot](https://i.imgur.com/Ntz0jn0.png)
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
