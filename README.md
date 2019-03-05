@@ -28,8 +28,8 @@ Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Inst
 ### Customization
 You can customize some of the colors of this theme to your own liking. See [these](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-colors) instructions for more detail
 
-### Changelog
-You can view the changelog on the [Wiki](https://github.com/MythikAngel/miku-discord-theme/wiki/Changelog)
+### Current state of development
+You can follow the progress and planned features/fixes on the [Trello board](https://trello.com/b/9EYc2but)
 
 ### Screenshots
 ![Miku Theme Screenshot](https://i.imgur.com/4PFXjXE.png)
