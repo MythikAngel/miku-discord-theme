@@ -22,7 +22,7 @@ Instant invite: https://discord.gg/SyTrDzj
 6. (_Optional_) Install [Old Title Bar](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OldTitleBar) (theme looks better with this plugin)
 7. Done. The theme should be working now and will automatically update
 
-#### Discord web
+### Discord web
 Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Installing-the-theme-on-Discord-web) tutorial
 
 ### Customization
@@ -32,8 +32,10 @@ You can customize some of the colors of this theme to your own liking. See [thes
 You can follow the progress and planned features/fixes on the [Trello board](https://trello.com/b/9EYc2but)
 
 ### Screenshots
-![Miku Theme Screenshot](https://i.imgur.com/4PFXjXE.png)
-![Miku Theme Screenshot](https://i.imgur.com/WcdlBda.png)
+#### Chat
+![Miku Theme Screenshot](https://i.imgur.com/mwnZwzA.png)
+#### Settings
+![Miku Theme Screenshot](https://i.imgur.com/Ntz0jn0.png)
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
 ### Wallpapers
