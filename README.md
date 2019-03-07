@@ -1,6 +1,7 @@
 # Miku Discord theme
 [![Release](https://img.shields.io/github/release/MythikAngel/miku-discord-theme.svg?style=flat-square)](https://github.com/MythikAngel/miku-discord-theme/releases/latest)
 [![Download counter](https://img.shields.io/github/downloads/MythikAngel/miku-discord-theme/total.svg?style=flat-square)](https://www.somsubhra.com/github-release-stats/?username=mythikangel&repository=miku-discord-theme)
+[![Trello](https://img.shields.io/badge/Trello-State%20of%20Development-blueviolet.svg?style=flat-square)](https://trello.com/b/9EYc2but)
 [![Discord Server](https://img.shields.io/discord/423787339018534912.svg?style=flat-square)](https://discord.gg/SyTrDzj)
 
 _(114 downloads before update)_
