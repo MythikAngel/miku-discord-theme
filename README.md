@@ -12,6 +12,9 @@ An automatically updating Hatsune Miku Discord theme with optional square avatar
 Join to be notified of updates and support!
 Instant invite: https://discord.gg/SyTrDzj
 
+### Wallpapers
+An overview with all current and past wallpapers can be found [here](https://github.com/MythikAngel/miku-discord-theme/wiki/Image-History). If the source of an image is known, it will be listed in the description. Please note that some of the images are resized or even flipped sometimes in order to make them compatible for the theme.
+
 ### Installation
 #### Discord client
 1. Make sure the dark theme is enabled in Discord. This custom theme is not made to be used with the light theme, and will look terrible with it.
@@ -38,9 +41,6 @@ You can follow the progress and planned features/fixes on the [Trello board](htt
 #### Settings
 ![Miku Theme Screenshot](https://i.imgur.com/Ntz0jn0.png)
 (Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
-
-### Wallpapers
-An album with all current and past wallpapers can be found [here](https://imgur.com/a/5wOsk). If the source of an image is known, it will be listed in the description. Please note that some of the images are resized or even flipped sometimes in order to make them compatible for the theme.
 
 ### Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
