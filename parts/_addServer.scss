@@ -1,0 +1,41 @@
+// Main Background
+.inner-1JeGVc {
+    background: $addServerBg !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+// Eliminating between layers
+.slideBody-2nMrnU {
+    background-image: none !important;
+}
+
+.slide-2pHaq5 {
+    background: rgba($color: #000000, $alpha: .5) !important;
+}
+
+.wrapper-2ZbzR9 {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
+
+// Create & join boxes
+.theme-dark .action-1lSjCi, .theme-light .action-1lSjCi {
+    background: rgba($color: #000000, $alpha: .5) !important;
+}
+
+// Footer
+.theme-light .footer-2yfCgX {
+    background-color: rgba($color: #000000, $alpha: .5) !important;
+}
+
+.input-cIJ7To { // Server name input
+    color: white !important;
+    &:focus {
+        border-color: $mainColor;
+    }
+}
+
+// Upload pic
+.avatarUploaderInner-3UNxY3 {
+    background-color: $mainColor;
+}

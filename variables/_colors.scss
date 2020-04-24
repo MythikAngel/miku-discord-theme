@@ -1,0 +1,28 @@
+$trans: transparent !important;
+$mainColor: var(--main-color, #E20B6C) !important;
+$hoverColor: var(--hover-color, #C60962) !important;
+
+$msgBox: rgba(0,0,0, .3) !important;
+
+$msgWrapperBg: rgba(0,0,0,0.5) !important;
+$svrMemberList: rgba(0,0,0,0.4) !important;
+$svrChannelList: rgba(0,0,0,0.4) !important;
+$svrTitle: rgba(0,0,0,0.3) !important;
+$svrChannelListSelected: rgba(255, 255, 255, 0.08) !important;
+$svrChannelListHover: rgba(0,0,0,0.35) !important;
+
+$friendLsHeaderBar: rgba(0,0,0,0.3) !important;
+$convSearchbar: rgba($color: #000000, $alpha: 0.1) !important;
+$searchPlaceholder: rgba($color: #fff, $alpha: .7) !important;
+
+$mainSettingsWindow: rgba(0, 0, 0, 0.75) !important;
+$sidebarSettings: rgba(0, 0, 0, 0.8) !important;
+$emoteHover: rgba($color: #000, $alpha: .35) !important;
+$emoteNameBg: rgba($color: #000, $alpha: .3) !important;
+
+.theme-dark{
+    --background-primary: rgba(0,0,0,0.2);
+    --background-secondary: rgba(0,0,0,0.2);
+    --background-tertiary: rgba(0,0,0, 0.3);
+    --channeltextarea-background: rgbA(0, 0, 0, 0.4);
+}

@@ -1,0 +1,53 @@
+// Making divs see-trough
+
+.messagesWrapper-3lZDfY { // Messages wrapper
+    background-color: $trans;
+}
+
+.chat-3bRxxu, .chat-3bRxxu form, .content-yTz4x3, .container-2lgZY8 { // Layer above wallpaper and bellow chat wrapper
+    background-color:  $trans;
+}
+
+.app-2rEoOp { // 10-9-2019 fix
+    background-color:  $trans;
+
+}
+.layer-3QrUeG, .layers-3iHuyZ { // Final layer above wallpaper
+    background: $msgWrapperBg;
+}
+
+.members-1998pB { // Server member list
+    background-color: $svrMemberList;
+}
+
+.channels-Ie2l6A { // Last layer
+    background-color: $svrChannelList;
+}
+
+.title-3qD0b- { // Server title bar
+    background-color: $svrTitle;
+}
+
+// Coloring the select box color in the channelbox
+.contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM { // Selected channel
+    background-color: $svrChannelListSelected;
+}
+
+.contentConnectedVoice-qL-YrL:active, .contentHoveredText-2D9B-x, .contentHoveredVoice-3p_NEO:active, .contentSelectedVoice-1WDIBM:active { // Hover channel
+    background-color: $svrChannelListHover;
+}
+
+.member-3W1lQa:hover .content-OzHfo4 { // Hover member (right box)
+    background-color: $svrChannelListHover;
+}
+
+// Server scroller on the left side
+.wrapper-1Rf91z {
+    background-color: rgba($color: #000000, $alpha: .5) !important;
+}
+
+// Brining back message sperators
+.group-spacing-16 .groupStart-23k01U {
+    border-top: 1px solid rgba(95, 95, 95, 0.5);
+    padding-top: 7px;
+}

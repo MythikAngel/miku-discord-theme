@@ -1,0 +1,38 @@
+// Settings background
+.standardSidebarView-3F1I7i {
+    background: $settingsBg !important;
+    background-size: cover !important;
+    background-position: right !important;
+}
+
+// Making divs see-trough
+
+.contentRegion-3nDuYy { // In-between wrapper
+    background: $mainSettingsWindow;
+}
+
+.sidebarRegion-VFTUkN { // Sidebar
+    background: $sidebarSettings;
+}
+
+// Buttons
+.lookFilled-1Gx00P.colorBrand-3pXr91, .side-8zPYf6 .itemSelected-1qLhcL, .themeDefault-24hCdX.valueChecked-m-4IJZ {
+    background-color: $mainColor;
+}
+
+.lookFilled-1Gx00P.colorBrand-3pXr91:hover {
+    background-color: $mainColor;
+}
+
+// Bar fill (voice & video section)
+.barFill-23-gu- {
+    background: $mainColor;
+}
+
+// Server settings emote select hover
+.card-FDVird:before {
+    background-color: $emoteHover;
+}
+.emojiAliasInput-1y-NBz .emojiInput-1aLNse { // Name box
+    background-color: $emoteNameBg;
+}

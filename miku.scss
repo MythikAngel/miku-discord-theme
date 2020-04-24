@@ -1,0 +1,46 @@
+// Getting variables
+@import 'variables/colors';
+@import 'variables/pics';
+
+// Main background
+#app-mount {
+    background-image: $mainBg;
+    background-size: cover;
+    background-position: top right;
+}
+
+// Miscellaneous
+@import 'parts/misc';
+
+//Scrollbar
+@import 'parts/scrollbar';
+
+// Chat in servers
+@import 'parts/svrChat';
+
+// Friendlist
+@import 'parts/friendList'; 
+
+// Settings
+@import 'parts/settings';
+
+// Discord Store
+@import 'parts/store';
+
+// Game Libary
+@import 'parts/libary';
+
+// Activity
+@import 'parts/activity';
+
+// User Profile
+@import 'parts/profile';
+
+// Optional sqaure avatars
+@import 'parts/avatars';
+
+// Add server window
+@import 'parts/addServer';
+
+// Server bar
+@import 'parts/serverbar';

@@ -1,0 +1,97 @@
+// Black message type/sent box
+.inner-zqa7da {
+    background-color: $msgBox;
+}
+
+// Context Menu
+.contextMenu-HLZMGh {
+    background: rgba(0,0,0,0.8) !important;
+}
+
+.item-1Yvehc:hover, .itemSubMenu-1vN_Yn:hover, .item-1Yvehc:hover {
+    background-color: $mainColor;
+}
+
+// Miku friendlist icon
+.guild-1EfMGQ:first-of-type .guildInner-3DSoA4 {
+	background-image: $friendListBg !important;
+    background-size: cover !important;
+    background-position: center !important;
+}
+
+.homeIcon-1FoKUJ {
+    color: transparent !important;
+}
+
+.guild-1EfMGQ:first-of-type .guildInner-3DSoA4 .wrapper-2F3Zv8:first-of-type {
+    background: #666;
+}
+
+// Add friends to DM
+.modal-3HD5ck {
+    background-color: rgba($color: #000000, $alpha: .7) !important;
+}
+
+// Typing bar
+.typing-2GQL18 {
+    background-color: rgba(0, 0, 0, 0.4) !important;
+  }
+
+// New message server indicator
+.guild-1EfMGQ.unread-qLkInr:before, .unread-1Dp-OI {
+    background: $mainColor;
+    opacity: 0.7;
+}
+
+// Window bar (kruisje, etc)
+.typeWindows-1za-n7 {
+    background-color: rgba(0, 0, 0, 0.83) !important;
+    margin-top: 0 !important;
+}
+
+// Delete message popup
+.footer-2yfCgX { // Footer
+    background-color: rgba($color: #000000, $alpha: .5) !important;
+}
+
+.message-2qRu38 { // Message
+    background-color: rgba($color: #000000, $alpha: .5) !important;
+}
+
+// Message option menu
+.container-3cGP6G {
+    background: rgba(0, 0, 0, 0.5) !important;
+}
+
+// Profile box with mute, etc
+.container-2Thooq
+{
+    background: rgba($color: #000000, $alpha: .3) !important;
+}
+
+// Online status selector
+.menu-Sp6bN1 {
+    background: rgba(0,0,0,0.8) !important;
+  }
+  
+.item-1GzJrl:hover {
+      background-color: $hoverColor;
+      opacity: 0.6;
+      color: #fff;
+  }
+  
+  .separator-2zcjq8 {
+      background-color: $mainColor;
+      opacity: 0.8;
+  }
+
+  // Voicebar when connected to a voice channel
+  .container-1UB9sr {
+      background: rgba($color: #000000, $alpha: .3) !important;
+  }
+
+  // When listening along with someone on Spotify
+.listeningAlong-2UPsxf {
+    background-color: rgba($color: #000000, $alpha: .3) !important;
+    margin-bottom: 0 !important;
+}

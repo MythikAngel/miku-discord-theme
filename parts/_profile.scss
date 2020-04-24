@@ -1,0 +1,82 @@
+div#user-profile-modal, .root-SR8cQa {
+    background-image: $profileBg;
+    background-size: cover;
+    background-position: center;
+}
+
+#user-profile-modal .scroller, #user-profile-modal .empty {
+background: rgba(0,0,0,0.5);
+}
+
+.topSectionNormal-2-vo2m {
+background-image: none !important;
+background-color: rgba(0, 0, 0, 0.3);
+}
+
+.body-3ND3kc {
+background-color: rgba(0, 0, 0, 0.7) !important;
+border-bottom: none !important;
+}
+
+#user-profile-modal .guilds .guild:hover {
+background: rgba(0, 0, 0, 0.44);
+}
+
+.note textarea {
+background: none !important;
+}
+
+#user-profile-modal .header .discord-tag .discriminator {
+color: rgba(255,255,255,0.5);
+}
+
+// Profile overview
+.topSectionPlaying-1J5E4n, .topSectionNormal-2-vo2m {
+background: rgba(0, 0, 0, 0.75) !important;
+}
+
+.headerFill-adLl4x {
+background-color: transparent !important;
+}
+
+// Profile popout
+.userPopout-3XzG_A {
+    background: $profilePopoutBg !important;
+    background-size: cover !important;
+  }
+  
+  .headerNormal-T_seeN {
+      background-color: rgba($color: #000000, $alpha: 0.8) !important;
+  }
+  
+  .body-3iLsc4, .footer-1fjuF6 {
+      background-color: rgba($color: #000000, $alpha: 0.75) !important;
+  }
+  
+  .user-popout .body, .user-popout .footer {
+      background: rgba(0, 0, 0, 0.75);
+  }
+  
+  .headerPlaying-j0WQBV { /*Now Playing a game*/
+      background: rgba(0, 0, 0, 0.65);
+  }
+  
+  /* Message box */
+  .quickMessage-1yeL4E {
+      background-color: rgba(0, 0, 0, 0.35) !important;
+      border-color: #23262a !important;
+  }
+
+  // Roles
+  .bodyInner-245q0L {
+    background-color: rgba(0, 0, 0, 0.2) !important;
+  }
+
+  // Spotify
+.topSectionSpotify-1lI0-P { // Full profile
+    background: rgba($color: #000000, $alpha: .8);
+}
+
+ .headerSpotify-zpWxgT { //Pop-out
+    background: rgba($color: #000000, $alpha: .8)
+}

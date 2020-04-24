@@ -1,0 +1,20 @@
+$sa: var(--avatar-radius, 0px) !important;
+
+//DM
+.image-33JSyf, .wrapper-3t9DeA {
+    border-radius: $sa;
+}
+
+//Friend list
+.inner-1W0Bkn {
+    border-radius: $sa;
+}
+
+//DM VOIP
+.callAvatar-v-u4BM.voice-2D-tt_ {
+    border-radius: $sa;
+}
+
+.callAvatarBorder-1D_KaE.voice-2D-tt_.speaking-oCqYMI { // Speaking circle
+    border-radius: $sa;
+}

@@ -1,0 +1,52 @@
+// Making divs see-trough
+
+.container-3gCOGc { // Main box
+    background-color: $trans;
+}
+
+.container-1r6BKw { // Top bar with all, online, blocked, etc.
+    background: $friendLsHeaderBar;
+}
+
+.panels-j1Uci_ { // username with mute button
+    background-color:  rgba(0, 0, 0, 0.55) !important;
+}
+
+// Recoloring some things
+.channel-2QD9_O.selected-1HYmZZ a { // Selected chat background in the left box
+    background-color: $svrChannelListSelected;
+}
+
+.channel-2QD9_O.selected-1HYmZZ a, .channel-2QD9_O:hover a { // Hovering over chat background in the left box
+    background-color: $svrChannelListHover;
+}
+
+// Searchbar for conversations
+.searchBar-2_Yu-C {
+    background-color: $convSearchbar;
+    input::placeholder {
+        color: $searchPlaceholder;
+    }
+}
+
+// Call box
+.video-1FfuMD { // In between layer
+    background-color: $trans;
+}
+
+.wrapper-29NfPK { // The final layer
+    background-color: rgba($color: #000, $alpha: .6) !important;
+}
+
+.friendsTable-133bsv .friendsRow-2yicud .friendsColumnActions-1LT3_M .friendsAction-__WNE9 { // Call buttons in list
+    background-color: rgba($color: #000000, $alpha: .4) !important;
+}
+
+.theme-dark .quickSelectPopout-X1hvgV { // Region chooser
+    background: rgba($color: #000000, $alpha: .7);
+}
+
+// 4-2-20 bg fix
+.theme-dark .container-1D34oG {
+    background-color: transparent;
+}
