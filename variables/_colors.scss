@@ -24,5 +24,7 @@ $emoteNameBg: rgba($color: #000, $alpha: .3) !important;
     --background-primary: rgba(0,0,0,0.2);
     --background-secondary: rgba(0,0,0,0.2);
     --background-tertiary: rgba(0,0,0, 0.3);
-    --channeltextarea-background: rgbA(0, 0, 0, 0.4);
+    --channeltextarea-background: rgba(0, 0, 0, 0.4);
+    --background-floating: rgba(0, 0, 0, 0.4);
+    --avatar-radius: 0px;
 }
