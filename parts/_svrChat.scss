@@ -49,5 +49,8 @@
 // Brining back message sperators
 .group-spacing-16 .groupStart-23k01U {
     border-top: 1px solid rgba(95, 95, 95, 0.5);
-    padding-top: 7px;
+    padding-top: 10px;
+    > div > img {
+        padding-top: 10px
+    }
 }
