@@ -1,8 +1,11 @@
 $sa: var(--avatar-radius, 0px) !important;
 
 //DM
-.avatar-1BDn8e, .da-avatar {
+.avatar-1BDn8e, .avatar-3uk_u9, .wrapper-3t9DeA, .da-avatar {
     border-radius: $sa;
+    svg > foreignObject {
+        mask: none !important;
+    }
 }
 
 //Friend list
