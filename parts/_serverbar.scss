@@ -1,3 +1,4 @@
+// Miku home icon
 .homeIcon-tEMBK1 {
     display: none;
 }
@@ -10,4 +11,17 @@ a[aria-label=Home] {
     > div {
         background-color: transparent !important;
     }
+}
+
+// Server action icons
+.circleIconButton-jET_ig, .da-circleIconButton {
+    color: $mainColor;
+    &.selected-ugP_am {
+        background-color: $hoverColor;
+    }
+}
+
+// Background of a selected server without an image
+.wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
+    background-color: $hoverColor;
 }
