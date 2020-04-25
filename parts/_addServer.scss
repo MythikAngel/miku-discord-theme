@@ -31,11 +31,11 @@
 .input-cIJ7To { // Server name input
     color: white !important;
     &:focus {
-        border-color: $mainColor;
+        border-color: $mainColor !important;
     }
 }
 
 // Upload pic
 .avatarUploaderInner-3UNxY3 {
-    background-color: $mainColor;
+    background-color: $mainColor !important;
 }

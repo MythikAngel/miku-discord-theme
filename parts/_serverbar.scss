@@ -15,13 +15,13 @@ a[aria-label=Home] {
 
 // Server action icons
 .circleIconButton-jET_ig, .da-circleIconButton {
-    color: $mainColor;
+    color: $mainColor !important;
     &.selected-ugP_am {
-        background-color: $hoverColor;
+        background-color: $hoverColor !important;
     }
 }
 
 // Background of a selected server without an image
 .wrapper-1BJsBx.selected-bZ3Lue .childWrapper-anI2G9 {
-    background-color: $hoverColor;
+    background-color: $hoverColor !important;
 }

@@ -4,7 +4,7 @@
 }
   
   .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb  {
-    background-color: $hoverColor;
+    background-color: $hoverColor !important;
     border-color: $trans;
 }
 

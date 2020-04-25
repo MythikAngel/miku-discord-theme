@@ -9,7 +9,7 @@
 }
 
 .item-1Yvehc:hover, .itemSubMenu-1vN_Yn:hover, .item-1Yvehc:hover {
-    background-color: $mainColor;
+    background-color: $mainColor !important;
 }
 
 // Miku friendlist icon
@@ -34,7 +34,7 @@
 
 // New message server indicator
 .guild-1EfMGQ.unread-qLkInr:before, .unread-1Dp-OI {
-    background: $mainColor;
+    background: $mainColor !important;
     opacity: 0.7;
 }
 
@@ -70,13 +70,13 @@
   }
   
 .item-1GzJrl:hover {
-      background-color: $hoverColor;
+      background-color: $hoverColor !important;
       opacity: 0.6;
       color: #fff;
   }
   
   .separator-2zcjq8 {
-      background-color: $mainColor;
+      background-color: $mainColor !important;
       opacity: 0.8;
   }
 

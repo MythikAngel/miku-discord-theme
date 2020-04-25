@@ -17,16 +17,16 @@
 
 // Buttons
 .lookFilled-1Gx00P.colorBrand-3pXr91, .side-8zPYf6 .itemSelected-1qLhcL, .themeDefault-24hCdX.valueChecked-m-4IJZ {
-    background-color: $mainColor;
+    background-color: $mainColor !important;
 }
 
 .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: $mainColor;
+    background-color: $mainColor !important;
 }
 
 // Bar fill (voice & video section)
 .barFill-23-gu- {
-    background: $mainColor;
+    background: $mainColor !important;
 }
 
 // Server settings emote select hover
