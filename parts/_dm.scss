@@ -13,6 +13,13 @@
     border-radius: 0 !important;
 }
 
+// Message box
+// Removing useless scrollbar at the right
+.scrollableContainer-2NUZem {
+    overflow-y: auto;
+    padding-right: 10px;
+}
+
 // Area below the message box
 .form-2fGMdU {
     background-color: rgba(0,0,0,0.2) !important;
