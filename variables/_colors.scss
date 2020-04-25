@@ -20,10 +20,18 @@ $sidebarSettings: rgba(0, 0, 0, 0.8) !important;
 $emoteHover: rgba($color: #000, $alpha: .35) !important;
 $emoteNameBg: rgba($color: #000, $alpha: .3) !important;
 
-.theme-dark{
+.theme-dark {
     --background-primary: rgba(0,0,0,0.2);
     --background-secondary: rgba(0,0,0,0.2);
     --background-tertiary: rgba(0,0,0, 0.3);
     --channeltextarea-background: rgba(0, 0, 0, 0.4);
     --background-floating: rgba(0, 0, 0, 0.4);
+    --text-link: var(--main-color, #E20B6C);
+}
+
+.theme-light { // Despite Discord being set the dark mode, some elements still render in light mode
+    --header-primary: #efefef;
+    --text-normal: #eee;
+    --text-muted: #abb6c2;
+    --text-link: var(--main-color, #E20B6C);
 }
