@@ -1,3 +1,4 @@
+// Call box
 .avatarWrapper-29j3CC {
     width: 120px !important;
     height: 120px !important;
@@ -12,10 +13,16 @@
     border-radius: 0 !important;
 }
 
+// Area below the message box
 .form-2fGMdU {
     background-color: rgba(0,0,0,0.2) !important;
     margin-top: 0 !important;
     &:before {
         background: none !important;
     }
+}
+
+// Typing bar
+.typing-2GQL18, .da-typing {
+    background-color: transparent !important;
 }
