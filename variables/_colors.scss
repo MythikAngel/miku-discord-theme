@@ -35,3 +35,7 @@ $emoteNameBg: rgba($color: #000, $alpha: .3) !important;
     --text-muted: #abb6c2;
     --text-link: var(--main-color, #E20B6C);
 }
+
+:root {
+    --bd-blue: var(--main-color, #E20B6C);
+}
