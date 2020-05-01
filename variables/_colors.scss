@@ -22,10 +22,11 @@ $emoteNameBg: rgba($color: #000, $alpha: .3) !important;
 
 .theme-dark {
     --background-primary: rgba(0,0,0,0.2);
-    --background-secondary: rgba(0,0,0,0.2);
+    --background-secondary: rgba(0,0,0,0.3);
     --background-tertiary: rgba(0,0,0, 0.3);
     --channeltextarea-background: rgba(0, 0, 0, 0.4);
     --background-floating: rgba(0, 0, 0, 0.4);
+    --background-secondary-alt: rgba(0,0,0,0.35);
     --text-link: var(--main-color, #E20B6C);
 }
 
