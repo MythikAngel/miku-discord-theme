@@ -1,15 +1,15 @@
 // Making divs see-trough
 
 .messagesWrapper-3lZDfY { // Messages wrapper
-    background-color: $trans;
+    background-color: transparent;
 }
 
 .chat-3bRxxu, .content-yTz4x3, .container-2lgZY8 { // Layer above wallpaper and bellow chat wrapper
-    background-color:  $trans;
+    background-color:  transparent;
 }
 
 .app-2rEoOp { // 10-9-2019 fix
-    background-color:  $trans;
+    background-color:  transparent;
 
 }
 .layer-3QrUeG, .layers-3iHuyZ { // Final layer above wallpaper

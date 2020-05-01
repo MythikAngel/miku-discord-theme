@@ -1,11 +1,11 @@
 .friends-table .scroller-wrap ::-webkit-scrollbar-track-piece, ::-webkit-scrollbar-track-piece {
     background-color: rgba(0, 0, 0, 0.3) !important;
-    border-color: $trans;
+    border-color: transparent;
 }
   
   .friends-table .scroller-wrap ::-webkit-scrollbar-thumb, ::-webkit-scrollbar-thumb  {
     background-color: $hoverColor !important;
-    border-color: $trans;
+    border-color: transparent;
 }
 
 // Hiding scrollbar bg at server channel list when scroll is not shown
