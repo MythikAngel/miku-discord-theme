@@ -5,7 +5,7 @@
 }
 
 .container-1r6BKw { // Top bar with all, online, blocked, etc.
-    background: $friendLsHeaderBar;
+    background: rgba(0,0,0,0.3) !important;
 }
 
 .panels-j1Uci_ { // username with mute button
@@ -23,9 +23,9 @@
 
 // Searchbar for conversations
 .searchBar-2_Yu-C {
-    background-color: $convSearchbar;
+    background-color: rgba($color: #000000, $alpha: 0.1) !important;
     input::placeholder {
-        color: $searchPlaceholder;
+        color: rgba($color: #fff, $alpha: .7) !important;
     }
 }
 

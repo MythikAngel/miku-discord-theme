@@ -8,11 +8,11 @@
 // Making divs see-trough
 
 .contentRegion-3nDuYy { // In-between wrapper
-    background: $mainSettingsWindow;
+    background: rgba(0, 0, 0, 0.75) !important;
 }
 
 .sidebarRegion-VFTUkN { // Sidebar
-    background: $sidebarSettings;
+    background: rgba(0, 0, 0, 0.8) !important;
 }
 
 // Buttons
@@ -43,8 +43,8 @@
 
 // Server settings emote select hover
 .card-FDVird:before {
-    background-color: $emoteHover;
+    background-color: rgba($color: #000, $alpha: .35) !important;
 }
 .emojiAliasInput-1y-NBz .emojiInput-1aLNse { // Name box
-    background-color: $emoteNameBg;
+    background-color: rgba($color: #000, $alpha: .3) !important;
 }

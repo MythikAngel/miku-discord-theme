@@ -13,19 +13,19 @@
 
 }
 .layer-3QrUeG, .layers-3iHuyZ { // Final layer above wallpaper
-    background: $msgWrapperBg;
+    background: rgba(0,0,0,0.5) !important;
 }
 
 .members-1998pB { // Server member list
-    background-color: $svrMemberList;
+    background-color: rgba(0,0,0,0.4) !important;
 }
 
 .channels-Ie2l6A { // Last layer
-    background-color: $svrChannelList;
+    background-color: rgba(0,0,0,0.4) !important;
 }
 
 .title-3qD0b- { // Server title bar
-    background-color: $svrTitle;
+    background-color: rgba(0,0,0,0.3) !important;
 }
 
 // Coloring the select box color in the channelbox
