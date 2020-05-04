@@ -3,7 +3,7 @@
     display: none;
 }
 
-a.wrapper-1BJsBx[href="/channels/@me"] {
+a.wrapper-1BJsBx[href^="/channels/@me"] {
     background-image: url("https://i.imgur.com/EQ9ex3N.png") !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
