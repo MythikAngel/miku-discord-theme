@@ -3,13 +3,15 @@
     display: none;
 }
 
-a.wrapper-1BJsBx[href^="/channels/@me"] {
-    background-image: url("https://i.imgur.com/EQ9ex3N.png") !important;
-    background-position: center !important;
-    background-repeat: no-repeat !important;
-    background-size: cover !important;
-    > div {
-        background-color: transparent !important;
+.tutorialContainer-1v44GL {
+    a.wrapper-1BJsBx[href^="/channels/@me"] {
+        background-image: url("https://i.imgur.com/EQ9ex3N.png") !important;
+        background-position: center !important;
+        background-repeat: no-repeat !important;
+        background-size: cover !important;
+        > div {
+            background-color: transparent !important;
+        }
     }
 }
 
