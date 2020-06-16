@@ -109,6 +109,6 @@
 // Codebox
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 .markup-2BOw-j code {
-    font-family: 'Fira Code', Consolas,Andale Mono WT,Andale Mono,Lucida Console,Lucida Sans Typewriter,DejaVu Sans Mono,Bitstream Vera Sans Mono,Liberation Mono,Nimbus Mono L,Monaco,Courier New,Courier,monospace !important;
-    background: rgba(8, 8, 8, 0.8) !important;
+    font-family: $codeBlockFont !important;
+    background: rgba(8, 8, 8, $codeBlockOpacity) !important;
 }
