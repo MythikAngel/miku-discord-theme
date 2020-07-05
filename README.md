@@ -16,26 +16,26 @@ An overview with all current and past wallpapers can be found [here](https://git
 
 ## Installation
 ### Discord client
-1. Make sure the dark theme is enabled in Discord. This custom theme is not made to be used with the light theme, and will look terrible with it.
+1. Make sure the dark theme is enabled in Discord. This custom theme is not to be used with the light theme, and will look terrible with it.
 2. Install [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp#installation), if not installed already.
 3. Download [Miku_theme-auto_update.theme.css](https://github.com/MythikAngel/miku-discord-theme/releases/latest) and put it in the BD themes folder (In Discord > User Settings > Bandaged BD > Themes > Open Theme Folder) (Make sure you keep the extension of the downloaded file intact)
-4. If not automaticly enabled already, enable the theme by going to User Settings > Bandaged BD > Themes
+4. If not automatically enabled already, enable the theme by going to User Settings > Bandaged BD > Themes
 5. (_Optional_) [Customize](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-theme) the colors and avatar-roundness of the theme
 6. (_Optional_) Install [Old Title Bar](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/OldTitleBar) (theme looks better with this plugin)
-7. Done. The theme should be working now and will automatically update
+7. Done. The theme should be working now and will automatically update.
 
 ### Discord web
 Please follow [this](https://github.com/MythikAngel/miku-discord-theme/wiki/Installing-the-theme-on-Discord-web) tutorial
 
 ### Customization
-You can customize some of the colors of this theme to your own liking. See [these](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-colors) instructions for more detail
+You can customize some colors of this theme to your own liking. See [these](https://github.com/MythikAngel/miku-discord-theme/wiki/Customizing-theme) instructions for more detail
 
 ### Screenshots
 #### Chat
 ![Miku Theme Screenshot](https://i.imgur.com/hbAbbqm.png)
 #### Settings
 ![Miku Theme Screenshot](https://i.imgur.com/Ntz0jn0.png)
-(Please keep in mind that the wallpaper will change from time to time and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
+(Please keep in mind that the wallpaper will change from time to time, and the current wallpaper of the theme is most likely different from the wallpaper shown on the picture)
 
 ### Disclaimer
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
