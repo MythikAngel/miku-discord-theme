@@ -4,6 +4,7 @@ $sa: var(--avatar-radius, 0px) !important;
 .avatar-1BDn8e, .avatar-3uk_u9, .wrapper-3t9DeA, .da-avatar, .wrapper-2QE8vf {
     border-radius: $sa;
     svg > foreignObject {
+        border-radius: $sa;
         mask: none !important;
     }
 }
